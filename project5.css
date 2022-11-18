@@ -1,0 +1,68 @@
+body{
+    background-color: #000070;
+}
+
+form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+/*
+he translate CSS property allows you to transfer an element
+from one place to another along the x (horizontal) axis, the Y 
+(vertical> axis, and the Z (depth) axis, similar to how you
+might think of moying an element using offsets, like top, 
+bottom, left, and right */
+transform: translate(-50%,-50%);
+background: rgb(0,0,0,.1);
+padding: 100px;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    font-size: .8em;
+    color: #fff;
+}
+
+input[type=text]{
+    display: inline-block;
+    border: none;
+    text-align: left;
+    box-shadow: 3px 2px rgba(121, 210,.3);
+    padding: 10px;
+    width: 350px;
+    margin: 10px 0;
+    background: transparent;
+    color: #fff;
+}
+/*
+The :focus CSS pseudo-class represents an element (such as a 
+form input) that has received focus. It is generally triggered when the 
+user clicks or taps on an element or selects it with the keyboard\s Tap key.
+*/
+    input[type=]:focus{
+        background: none;
+        border: none;
+        color: #fff;
+}
+
+button{
+    background: transparent;
+    color: #fff;
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: 20px 0;
+    padding: 10px 30px;
+    border: 2px solid #fff;
+}
+
+button:hover{
+    background: transparent;
+    border: 2px solid rgba(69, 30, 160, .4);
+}
+
+
+

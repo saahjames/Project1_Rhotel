@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100%;
+    height: 100vh;
+    background: url(office-comuter.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav{
+    width: 1200px;
+    height: 80%;
+}

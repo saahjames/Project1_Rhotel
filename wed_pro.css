@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    background-color: rgb(128, 203, 206);
+}
+
+.container_col{
+    background-color: rgba(203, 233, 234, 0.453);
+    width: 20%;
+    height: 30vh;
+    border: 1px solid black;
+}
+
+.container_col p{
+    color: black;
+    padding: 7px;
+}

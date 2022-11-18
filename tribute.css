@@ -1,0 +1,46 @@
+body{
+    background-color: #00FA9A;
+    margin: 200px;
+}
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+img{
+    display: inline-block;
+    width: 100%;
+    border-radius: 50%;
+    text-size-adjust: 25%;
+}
+#caption{
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+div#tribute-data{
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #98fb98;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+h1.title-APJ{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+#tribute-link{
+    text-decoration: none;
+    color: black;
+}
+div#archievement-data{
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}

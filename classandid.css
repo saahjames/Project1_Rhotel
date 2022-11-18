@@ -1,0 +1,21 @@
+.section1{
+    background-color: palevioletred;
+    color: black;
+}
+
+.section1 h2{
+    font-size: 40px;
+    padding: 20px;
+}
+
+/*working with id selector*/
+
+#section1{
+    background-color: brown;
+    color: blue;
+}
+
+#section1 h2{
+    font-size: 40px;
+    padding: 20px;
+}

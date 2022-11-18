@@ -1,0 +1,26 @@
+section{
+    background-color: blueviolet;
+    width: 600px;
+    height: 200px;
+}
+
+section p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+section button a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+
+section button{
+    width: 120px;
+    height: 60px;
+    border: 2px solid red;
+}

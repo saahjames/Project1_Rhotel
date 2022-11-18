@@ -1,0 +1,16 @@
+div{
+    border: 1px solid black;
+    border-radius: 50%;
+    background-image: linear-gradient(rgb(39, 40, 48), rgb(27, 23, 23), rgb(201, 111, 111));
+    width: 400px;
+    height: 400px;
+    
+}
+
+div p{
+    text-align: center;
+    font-weight: solid;
+    color: black;
+    background-color: transparent;
+
+}

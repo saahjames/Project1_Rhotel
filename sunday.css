@@ -1,0 +1,15 @@
+div{
+    border: 3px solid green;
+    border-radius: 50%;
+    background-color: lightblue;
+    width: 500px;
+    height: 500px;
+}
+
+div p{
+    background-color: transparent;
+    padding: 20px;
+    color: green;
+    text-align: center;
+    font-weight: bold;
+}

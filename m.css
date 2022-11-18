@@ -1,0 +1,28 @@
+section{
+    background-color: orange;
+    width: 600px;
+    height: 200px;
+}
+
+section p{
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+
+section button a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+
+section button{
+    width: 130px;
+    height: 70px;
+    border: 2px solid green;
+
+}

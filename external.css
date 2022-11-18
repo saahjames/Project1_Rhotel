@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+/*Starting with the section in the HTML*/
+/*this is how we comment in CSS*/
+
+section{
+     background-color: darkslategray;
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+section div h2{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+section img{
+    width: 200px;
+    height: 200px;
+}
+
+section p{
+    background-color: white;
+    color: black;
+}

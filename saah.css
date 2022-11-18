@@ -1,0 +1,15 @@
+div{
+    background-color: orange;
+    border-radius: 50%;
+    border: 3px solid red;
+    width: 500px;
+    height: 500px;
+}
+
+div P{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}

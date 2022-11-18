@@ -1,0 +1,30 @@
+body{
+    background-color: green;
+}
+
+section{
+    width: 500px;
+    height: 400px;
+    background-color: orange;
+    color: white;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+section h2{
+    padding: 20px solid black;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+section p{
+    padding: 10px; color: black;
+    font-size: 25px;
+}
+
+section button{
+    background-color: green;
+    color: white;
+    padding: 6px;
+    margin: 10px
+}

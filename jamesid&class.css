@@ -1,0 +1,21 @@
+.type2{
+    background-color: orange;
+    color: black;
+}
+
+.type2 p{
+    font-size: 20px;
+    padding: 35px;
+}
+
+/*work with id selector*/
+
+#type2{
+    background-color: green;
+    color: deeppink;
+}
+
+#type2 p{
+    font-size: 20px;
+    padding: 35px;
+}

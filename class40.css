@@ -1,0 +1,21 @@
+.section3{
+    background-color: orange;
+    color: black;
+}
+
+.section3 h2{
+    font-size: 20px;
+    padding: 20px;
+}
+
+/*working with id selector*/
+
+#section3{
+    background-color: blue;
+    color: white;
+}
+
+#section3 h2{
+    font-size: 20px;
+    padding: 20px;
+}

@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(./background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nav-bar{
+    background-color: black;
+    width: 1500px;
+    height: 80px;
+}
+.logo {
+    font-size: 20%;
+    color: white;
+    letter-spacing: 1px;
+    cursor: pointer;
+    font-size: large;
+    padding-top: 25px;
+    justify-content: center;
+}
+span{
+    color: gold;
+}
+.nav-bar ul{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    color: gold;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+}
+.nav-bar ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 40px;
+}
+.nav-bar ul li a{
+    color: gold;
+    text-align: center;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+

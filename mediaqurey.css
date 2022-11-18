@@ -1,0 +1,29 @@
+.example{
+    padding: 20px;
+    color: white;
+}
+
+/*Extra small devies (phone, 600px and down>) */
+@media Only screen and (max-width: 600px)
+{
+.example {background-color: red;}
+}
+
+/* small deviecs (portrait tables and large phones, 600px and up)*/
+@media Only screen and (min-width: 600px)
+{
+    .example {background-color: green;}
+}
+/*Medium devies ( landscape tablets, 768px and up)*/
+@media Only screen and (min-width: 768px){
+.example {background-color: blue;}
+}
+/* large devies (portrait tables and large phones, 600px and up)*/
+@media only screen and (min-width: 992px){
+    .example {background-color: orange;}
+}
+/* Extra Large devies (large laptop and desktops, 1200px and up)*/
+
+@media only screen and (min-width: 1200px){
+    .example {background-color: pink;}
+}
